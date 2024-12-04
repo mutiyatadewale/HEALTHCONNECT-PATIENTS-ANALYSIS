@@ -2,7 +2,9 @@
 This is a healthcare dataset containing 55499 rows and 15 columns, each representing a unit of observation. The analysis is aimed to particularly identify most common diagnosis base on region, treatment outcomes success rate, geographical distribution of diseases base on specific medical condition and so on
 
 Methodology
-The analysis was conducted using Panda on Jupyter notebook. the following steps were taken:
+The Descriptive and statistical analysis were conducted using Panda on Jupyter notebook and visualizations were done on jupyter notebook and Tableau. 
+The following steps were taken:
+
 Importation of necessary libraries like Panda and dataset
 Data cleaning and preprocessing (checking for missing values, removing duplicate values, converting to compatible data types. 
 
