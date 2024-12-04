@@ -1,5 +1,5 @@
 # HEALTHCONNECT-PATIENTS-ANALYSIS
-The dataset contains 55499 rows and 15 columns, each representing a unit of observation. The analysis is aimed to particularly identify common health issues, treatment outcomes success rate, geographical distribution of diseases and so on
+This is a healthcare dataset containing 55499 rows and 15 columns, each representing a unit of observation. The analysis is aimed to particularly identify most common diagnosis base on region, treatment outcomes success rate, geographical distribution of diseases base on specific medical condition and so on
 
 Methodology
 The analysis was conducted using Panda on Jupyter notebook. the following steps were taken:
